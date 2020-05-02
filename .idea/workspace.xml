@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3251b501-0d13-4796-99a6-3fc9f6c838d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend/.flaskenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/julia-portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/julia-portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bLeUuLgARqXfIejr59UWF9PRMo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="julia-pf-webapp" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="julia-portfolio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_APP" value="app.py" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend/venv/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend/venv/bin/flask" />
+      <option name="PARAMETERS" value="run" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3251b501-0d13-4796-99a6-3fc9f6c838d1" name="Default Changelist" comment="" />
+      <created>1588415819316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588415819316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="114" key="#Inspections" timestamp="1588418628033">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="354" y="114" key="#Inspections/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588418628033" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588423023424">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423023424" />
+    <state x="440" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588417290078">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="440" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588417290078" />
+    <state x="574" y="166" key="EnvironmentVariablesDialog" timestamp="1588422994788">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="574" y="166" key="EnvironmentVariablesDialog/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422994788" />
+    <state x="507" y="191" key="FileChooserDialogImpl" timestamp="1588422417248">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="507" y="191" key="FileChooserDialogImpl/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422417248" />
+    <state width="1419" height="260" key="GridCell.Tab.0.bottom" timestamp="1588423883416">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883416" />
+    <state width="1419" height="260" key="GridCell.Tab.0.center" timestamp="1588423883414">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.0.center/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883414" />
+    <state width="1419" height="260" key="GridCell.Tab.0.left" timestamp="1588423883413">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.0.left/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883413" />
+    <state width="1419" height="260" key="GridCell.Tab.0.right" timestamp="1588423883415">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.0.right/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883415" />
+    <state width="1419" height="260" key="GridCell.Tab.1.bottom" timestamp="1588423858236">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.1.bottom/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858236" />
+    <state width="1419" height="260" key="GridCell.Tab.1.center" timestamp="1588423858235">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.1.center/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858235" />
+    <state width="1419" height="260" key="GridCell.Tab.1.left" timestamp="1588423858235">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.1.left/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858235" />
+    <state width="1419" height="260" key="GridCell.Tab.1.right" timestamp="1588423858236">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="260" key="GridCell.Tab.1.right/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858236" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1588422660966">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422660966" />
+    <state x="420" y="64" width="641" height="729" key="find.popup" timestamp="1588418352482">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="420" y="64" width="641" height="729" key="find.popup/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588418352482" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/julia-portfolio/julia-portfolio-backend/app/routes.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
