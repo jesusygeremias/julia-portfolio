@@ -1,2 +1,2 @@
 # julia-portfolio
-Julia's portfolio based on ReactJS and Flask.
+Julia's portfolio based on ReactJS and Flask. :heart:
