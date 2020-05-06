@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+/*****julia-portfolio*****/
+
+/*header style*/
+.Site-header {
+  margin: 0 0 24px;
+}
+
+@media screen and (min-width: 600px){ 
+  .Site-header {
+    margin-bottom: 48px;
+  }
+}
+
+.menu {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 2%;
+  margin-right: 4%;
+}
