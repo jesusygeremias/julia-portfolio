@@ -61,4 +61,20 @@
 .header-logo{
   position: absolute;
   left: 0;
+  width: 20%;
+  height: ;
+}
+
+@media screen and (min-width: 896px){
+  .container-right{
+    float: right;
+    width: 236px;
+  }
+}
+
+.start-gallery{
+  box-sizing: inherit;
+  position: absolute;
+  left: 0;
+
 }

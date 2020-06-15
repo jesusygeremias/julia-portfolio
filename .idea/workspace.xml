@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="3251b501-0d13-4796-99a6-3fc9f6c838d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

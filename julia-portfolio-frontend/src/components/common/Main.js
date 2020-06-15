@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route } from "react-router-dom";
-//import Home from "../Home";
+import StartPage from "../startPage/StartPage";
 
 export default class Main extends React.Component {
 
@@ -9,13 +9,10 @@ export default class Main extends React.Component {
   };
 
   render() {
-    /*
-    <Switch>
-        <Route exact path='/' component = {} />
-      </Switch>
-    */
     return (
-      <div/>
+      <Switch>
+        <Route exact path='/' component = {StartPage} />
+      </Switch>
     );
   }
 }
