@@ -7,8 +7,11 @@
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/Start" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/RightBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/RightBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/startPage/StartPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/startPage/StartPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -91,10 +94,10 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="354" y="114" key="#Inspections/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588418628033" />
-    <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588794127627">
+    <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595268156794">
       <screen x="1440" y="-76" width="1920" height="1080" />
     </state>
-    <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588793731229" />
+    <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1595268156794" />
     <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423023424" />
     <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794127627" />
     <state x="440" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588417290078">
@@ -109,30 +112,30 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="507" y="191" key="FileChooserDialogImpl/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422417248" />
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1588804972645">
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1595271049083">
       <screen x="1440" y="-53" width="1920" height="1057" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191844" />
     <state width="1419" height="260" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883416" />
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588804972645" />
-    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1588804972644">
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049083" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1595271049082">
       <screen x="1440" y="-53" width="1920" height="1057" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191841" />
     <state width="1419" height="260" key="GridCell.Tab.0.center/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883414" />
-    <state width="1899" height="304" key="GridCell.Tab.0.center/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588804972644" />
-    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1588804972642">
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049082" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1595271049081">
       <screen x="1440" y="-53" width="1920" height="1057" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191839" />
     <state width="1419" height="260" key="GridCell.Tab.0.left/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883413" />
-    <state width="1899" height="304" key="GridCell.Tab.0.left/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588804972642" />
-    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1588804972645">
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049081" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1595271049082">
       <screen x="1440" y="-53" width="1920" height="1057" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191842" />
     <state width="1419" height="260" key="GridCell.Tab.0.right/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883415" />
-    <state width="1899" height="304" key="GridCell.Tab.0.right/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588804972645" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049082" />
     <state width="1899" height="260" key="GridCell.Tab.1.bottom" timestamp="1588449359788">
       <screen x="1440" y="-53" width="1920" height="1057" />
     </state>
@@ -153,9 +156,10 @@
     </state>
     <state width="1419" height="260" key="GridCell.Tab.1.right/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858236" />
     <state width="1899" height="260" key="GridCell.Tab.1.right/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588449359788" />
-    <state x="1735" y="-16" key="SettingsEditor" timestamp="1588794037796">
+    <state x="1735" y="-16" key="SettingsEditor" timestamp="1595268141047">
       <screen x="1440" y="-76" width="1920" height="1080" />
     </state>
+    <state x="1735" y="-16" key="SettingsEditor/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1595268141047" />
     <state x="221" y="68" key="SettingsEditor/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422660966" />
     <state x="1735" y="-16" key="SettingsEditor/0.23.1440.877/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794037796" />
     <state x="420" y="64" width="641" height="729" key="find.popup" timestamp="1588418352482">
