@@ -71,6 +71,11 @@ header .banner-text h3 {
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
+
+.header-description {
+   color: #ffffff !important;
+}
+
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #fff;
@@ -1009,3 +1014,8 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+/*ilustration*/
+.ilustration-margin {
+   margin-bottom: 5%;
+}

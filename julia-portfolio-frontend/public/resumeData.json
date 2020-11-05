@@ -1,25 +1,26 @@
 {
   "main": {
     "name":"Julia Rodriguez",
-    "occupation":"Artista",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"artista y educadora infantil en actividades lúdicas de arte",
+    "description":"Desde pequeña tengo una imaginación que no para. Mi cabeza está llena de las historias que nos leía mi padre, de música clásica, y de juegos. Esta es la base que me impulsa a crear a día de hoy",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":["Soy una persona reservada, pero tan torpe que se me acaba leyendo como a un libro abierto. ¡Aunque no negaré que es esta cualidad la que me ha traído hasta aquí! ", 
+          "Desde pequeña tengo una imaginación que no para. Mi cabeza está llena de las historias que nos leía mi padre, de música clásica, y de juegos. Esta es la base que me impulsa a crear a día de hoy."],
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "jul.jul.ia.jr@gmail.com",
+    "phone": "+34 650 162 169",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Delicias",
+      "city":"Madrid",
+      "state":"España",
+      "zip": "28045"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/juliarodomin",
         "className":"fa fa-facebook"
       },
       {
@@ -56,18 +57,16 @@
   },
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+    "ilustration":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "title":"Viejo Buho",
+        "image":"el-viejo-buho.jpg",
+        "description":"Buho y viejo"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "title":"Serpiente sobre negro",
+        "image":"serpiente-black.jpg",
+        "description":"Serpiente"
       }
     ],
     "work":[
