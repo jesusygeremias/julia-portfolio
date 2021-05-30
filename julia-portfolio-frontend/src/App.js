@@ -16,13 +16,14 @@ class App extends Component {
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData: {}
+      resumeData: {},
+      message: null
     };
 
     ReactGA.initialize('UA-110570651-1');
     ReactGA.pageview(window.location.pathname);
 
-  }
+  }    
 
   getResumeData(){
     $.ajax({

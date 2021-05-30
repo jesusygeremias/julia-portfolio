@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/ilustration/serpiente-black.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/paintings/ninno-pequenno.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/paintings/vieja-painting.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/header-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/header-background.jpg" afterDir="false" />
@@ -13,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/resumeData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/resume-screenshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/About.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Portfolio.js" afterDir="false" />
@@ -93,5 +95,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/julia-portfolio-backend/app/routes.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

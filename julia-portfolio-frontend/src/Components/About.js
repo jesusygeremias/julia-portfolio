@@ -1,7 +1,28 @@
 import React, { Component } from 'react';
 
 class About extends Component {
-  render() {
+  
+   state = { message: null }
+
+   componentDidMount() {
+      let headers = new Headers();
+  
+      headers.append('Content-Type', 'application/json');
+      headers.append('Accept', 'application/json');
+      headers.append('Origin','http://localhost:3000');
+  
+      var miInit = { method: 'GET',
+              headers: headers,
+              mode: 'cors',
+              cache: 'default' };
+  
+      fetch("http://localhost:5000", miInit)
+         .then(response => response.json())
+         .then(data => this.setState({message: data.message}))
+         .catch(error => this.setState({message: 'Error'}))
+    }
+
+   render() {
 
     if(this.props.data){
       var name = this.props.data.name;
@@ -23,7 +44,7 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Julia Rodríguez Profile Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>Sobre mí</h2>
+            <h2>Sobre mí {this.state.message} </h2>
 
             <p>{bio}</p>
             <div className="row">
