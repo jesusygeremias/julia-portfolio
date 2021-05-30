@@ -2,17 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3251b501-0d13-4796-99a6-3fc9f6c838d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/ilustration/el-viejo-buho.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/ilustration/serpiente-black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/paintings/ninno-pequenno.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/paintings/vieja-painting.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/Start" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/RightBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/common/RightBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/startPage/StartPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/components/startPage/StartPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/dotenv" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/dotenv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/flask" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/flask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-backend/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-backend/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/header-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/header-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/profilepic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/images/profilepic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/public/resumeData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/resume-screenshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/julia-portfolio-frontend/src/Components/Resume.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +44,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bLeUuLgARqXfIejr59UWF9PRMo" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -58,9 +72,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="FLASK_APP" value="app.py" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/python3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/julia-portfolio-backend/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/julia-portfolio-backend/venv/bin/flask" />
@@ -73,6 +87,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -88,83 +103,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="354" y="114" key="#Inspections" timestamp="1588418628033">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="354" y="114" key="#Inspections/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588418628033" />
-    <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595268156794">
-      <screen x="1440" y="-76" width="1920" height="1080" />
-    </state>
-    <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1595268156794" />
-    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423023424" />
-    <state x="1685" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794127627" />
-    <state x="440" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588417290078">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="440" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588417290078" />
-    <state x="574" y="166" key="EnvironmentVariablesDialog" timestamp="1588422994788">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="574" y="166" key="EnvironmentVariablesDialog/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422994788" />
-    <state x="507" y="191" key="FileChooserDialogImpl" timestamp="1588422417248">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="507" y="191" key="FileChooserDialogImpl/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422417248" />
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1595271049083">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191844" />
-    <state width="1419" height="260" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883416" />
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049083" />
-    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1595271049082">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191841" />
-    <state width="1419" height="260" key="GridCell.Tab.0.center/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883414" />
-    <state width="1899" height="304" key="GridCell.Tab.0.center/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049082" />
-    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1595271049081">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191839" />
-    <state width="1419" height="260" key="GridCell.Tab.0.left/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883413" />
-    <state width="1899" height="304" key="GridCell.Tab.0.left/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049081" />
-    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1595271049082">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794191842" />
-    <state width="1419" height="260" key="GridCell.Tab.0.right/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423883415" />
-    <state width="1899" height="304" key="GridCell.Tab.0.right/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1595271049082" />
-    <state width="1899" height="260" key="GridCell.Tab.1.bottom" timestamp="1588449359788">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1419" height="260" key="GridCell.Tab.1.bottom/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858236" />
-    <state width="1899" height="260" key="GridCell.Tab.1.bottom/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588449359788" />
-    <state width="1899" height="260" key="GridCell.Tab.1.center" timestamp="1588449359788">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1419" height="260" key="GridCell.Tab.1.center/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858235" />
-    <state width="1899" height="260" key="GridCell.Tab.1.center/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588449359788" />
-    <state width="1899" height="260" key="GridCell.Tab.1.left" timestamp="1588449359787">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1419" height="260" key="GridCell.Tab.1.left/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858235" />
-    <state width="1899" height="260" key="GridCell.Tab.1.left/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588449359787" />
-    <state width="1899" height="260" key="GridCell.Tab.1.right" timestamp="1588449359788">
-      <screen x="1440" y="-53" width="1920" height="1057" />
-    </state>
-    <state width="1419" height="260" key="GridCell.Tab.1.right/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588423858236" />
-    <state width="1899" height="260" key="GridCell.Tab.1.right/0.23.1440.812/1440.-53.1920.1057@1440.-53.1920.1057" timestamp="1588449359788" />
-    <state x="1735" y="-16" key="SettingsEditor" timestamp="1595268141047">
-      <screen x="1440" y="-76" width="1920" height="1080" />
-    </state>
-    <state x="1735" y="-16" key="SettingsEditor/0.0.1440.900/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1595268141047" />
-    <state x="221" y="68" key="SettingsEditor/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588422660966" />
-    <state x="1735" y="-16" key="SettingsEditor/0.23.1440.877/1440.-76.1920.1080@1440.-76.1920.1080" timestamp="1588794037796" />
-    <state x="420" y="64" width="641" height="729" key="find.popup" timestamp="1588418352482">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="420" y="64" width="641" height="729" key="find.popup/0.23.1440.812/1440.-53.1920.1057@0.23.1440.812" timestamp="1588418352482" />
   </component>
 </project>
