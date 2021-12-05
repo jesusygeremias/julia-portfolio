@@ -5,21 +5,19 @@ class About extends Component {
    state = { message: null }
 
    componentDidMount() {
-      let headers = new Headers();
-  
-      headers.append('Content-Type', 'application/json');
-      headers.append('Accept', 'application/json');
-      headers.append('Origin','http://localhost:3000');
-  
-      var miInit = { method: 'GET',
-              headers: headers,
-              mode: 'cors',
-              cache: 'default' };
-  
-      fetch("http://localhost:5000", miInit)
-         .then(response => response.json())
-         .then(data => this.setState({message: data.message}))
-         .catch(error => this.setState({message: 'Error'}))
+      
+      fetch('http://localhost:8080/api/username', {
+         method: 'GET',
+         mode: 'no-cors',
+         headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json'
+         },
+         //body: JSON.stringify({a: 1, b: 'Textual content'})
+      })
+      .then(response => response.json())
+      .then(data => this.setState({message: data}))
+      .catch(error => this.setState({message: 'Error'}));      
     }
 
    render() {
